@@ -5,7 +5,7 @@ import math
 import serial
 import threading
 from multiprocessing import Process, Value, Array
-
+#hi
 
 BACKGROUND_COLOR = "#000000"
 FOREGROUND_COLOR = "#B0B0B0"
